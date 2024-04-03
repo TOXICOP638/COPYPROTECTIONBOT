@@ -1,7 +1,7 @@
 {
   "name": "bot",
   "description": "Your bot description",
-  "repository": "https://graph.org/file/2d7e674205bab8329026c.jpg",
+  "repository": "https://github.com/TOXICOP638/COPYPROTECTIONBOT",
   "image": "heroku/python",
   "addons": [],
   "buildpacks": [
