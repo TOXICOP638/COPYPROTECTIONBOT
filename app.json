@@ -3,7 +3,7 @@
   "description": "Your bot description",
   "repository": "https://github.com/TOXICOP638/COPYPROTECTIONBOT",
   "image": "heroku/python",
-  "addons": [eco],
+  "addons": [],
   "buildpacks": [
     {
       "url": "heroku/python"
