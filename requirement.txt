@@ -1,8 +1,7 @@
 requests
 python-dotenv
 python-decouple
-Telethon
+telethon
 cryptg
 gitpython
 asyncio
-
