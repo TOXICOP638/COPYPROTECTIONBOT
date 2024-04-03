@@ -1,2 +1,8 @@
-python-telegram-bot
+requests
+python-dotenv
+python-decouple
+Telethon
+cryptg
+gitpython
+asyncio
 
