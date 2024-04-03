@@ -1,7 +1,7 @@
 {
   "name": "bot",
   "description": "Your bot description",
-  "repository": "https://github.com/PRADHAN474/COPYRIGHT",
+  "repository": "https://graph.org/file/2d7e674205bab8329026c.jpg",
   "image": "heroku/python",
   "addons": [],
   "buildpacks": [
@@ -15,15 +15,15 @@
       "required": true
     },
     "SUPPORT_GROUP_LINK": {
-      "description": "https://t.me/CHATTING_2024",
+      "description": "https://t.me/DOSTO_KI_M3HFIL",
       "required": true
     },
     "LOGS_GROUP_LINK": {
-      "description": "https://t.me/CHATTING_2024",
+      "description": "https://t.me/DOSTO_KI_M3HFIL",
       "required": true
     },
     "OWNER_ID": {
-      "description": "5059737154",
+      "description": "6968355708",
       "required": true
     }
   }
