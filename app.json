@@ -9,19 +9,19 @@
   ],
   "env": {
     "BOT_TOKEN": {
-      "description": "7167596392:AAHCoW0eGmdMIrVMULIQdqDqv3JOrlpCvFE",
+      "description": "The token for your bot",
       "required": true
     },
     "SUPPORT_GROUP_LINK": {
-      "description": "https://t.me/DOSTO_KI_M3HFIL",
+      "description": "Link to your support group (e.g., Telegram group)",
       "required": true
     },
     "LOGS_GROUP_LINK": {
-      "description": "https://t.me/DOSTO_KI_M3HFIL",
+      "description": "Link to your logs group (e.g., Telegram group)",
       "required": true
     },
     "OWNER_ID": {
-      "description": "6968355708",
+      "description": "The ID of the bot owner",
       "required": true
     }
   }
